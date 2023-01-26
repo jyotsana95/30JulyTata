@@ -1,0 +1,144 @@
+2023-01-17 14:32:10,677 [main] INFO Maven_project - open url
+2023-01-17 14:32:11,054 [main] INFO Maven_project - Enter username
+2023-01-17 14:32:11,758 [main] INFO Maven_project - enter password
+2023-01-17 14:32:12,265 [main] INFO Maven_project - click operation
+2023-01-17 14:33:01,474 [main] INFO Maven_project - successful login
+2023-01-17 15:54:23,319 [main] INFO Maven_project - open url
+2023-01-17 15:54:24,038 [main] INFO Maven_project - Enter username
+2023-01-17 15:54:25,186 [main] INFO Maven_project - enter password
+2023-01-17 15:54:27,186 [main] INFO Maven_project - click operation
+2023-01-17 16:06:22,256 [main] INFO Maven_project - open url
+2023-01-17 16:06:22,539 [main] INFO Maven_project - Enter username
+2023-01-17 16:06:23,095 [main] INFO Maven_project - enter password
+2023-01-17 16:06:23,460 [main] INFO Maven_project - click operation
+2023-01-17 16:06:54,628 [main] INFO Maven_project - successful login
+2023-01-17 16:11:20,862 [main] INFO Maven_project Ecommerce - open url
+2023-01-17 16:11:21,272 [main] INFO Maven_project Ecommerce - Enter username
+2023-01-17 16:11:24,756 [main] INFO Maven_project Ecommerce - enter password
+2023-01-17 16:11:25,896 [main] INFO Maven_project Ecommerce - click operation
+2023-01-17 16:11:36,595 [main] INFO Maven_project Ecommerce - successful login
+2023-01-18 16:58:09,919 [main] INFO Maven_project Ecommerce - open url
+2023-01-18 16:58:10,500 [main] INFO Maven_project Ecommerce - Enter username
+2023-01-18 16:58:11,804 [main] INFO Maven_project Ecommerce - enter password
+2023-01-18 16:58:12,781 [main] INFO Maven_project Ecommerce - click operation
+2023-01-18 16:58:14,682 [main] INFO Maven_project Ecommerce - successful login
+2023-01-18 17:27:34,996 [main] INFO Maven_project Ecommerce - open url
+2023-01-18 17:27:35,501 [main] INFO Maven_project Ecommerce - Enter username
+2023-01-18 17:27:36,470 [main] INFO Maven_project Ecommerce - enter password
+2023-01-18 17:27:37,056 [main] INFO Maven_project Ecommerce - click operation
+2023-01-18 17:28:03,923 [main] INFO Maven_project Ecommerce - successful login
+2023-01-18 19:42:47,727 [main] INFO Maven_project Ecommerce - open url
+2023-01-18 19:42:48,744 [main] INFO Maven_project Ecommerce - Enter username
+2023-01-18 19:42:49,982 [main] INFO Maven_project Ecommerce - enter password
+2023-01-18 19:42:50,513 [main] INFO Maven_project Ecommerce - click operation
+2023-01-18 19:42:51,648 [main] INFO Maven_project Ecommerce - successful login
+2023-01-18 19:45:32,242 [main] INFO Maven_project Ecommerce - open url
+2023-01-18 19:45:32,521 [main] INFO Maven_project Ecommerce - Enter username
+2023-01-18 19:45:33,072 [main] INFO Maven_project Ecommerce - enter password
+2023-01-18 19:45:33,434 [main] INFO Maven_project Ecommerce - click operation
+2023-01-18 19:45:56,977 [main] INFO Maven_project Ecommerce - Successful login
+2023-01-18 19:50:24,588 [main] INFO Maven_project Ecommerce - open url
+2023-01-18 19:50:24,634 [main] INFO Maven_project Ecommerce - Enter username
+2023-01-18 19:50:24,754 [main] INFO Maven_project Ecommerce - enter password
+2023-01-18 19:50:24,937 [main] INFO Maven_project Ecommerce - click operation
+2023-01-19 13:42:35,277 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 13:43:53,344 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 13:56:19,013 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 14:03:25,611 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 14:08:47,351 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 14:13:10,236 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 14:15:30,002 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 14:15:36,005 [main] INFO Maven_project Ecommerce - Enter OTP
+2023-01-19 14:15:46,454 [main] INFO Maven_project Ecommerce - Verify OTP
+2023-01-19 15:12:49,869 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 15:12:50,785 [main] INFO Maven_project Ecommerce - enter Username
+2023-01-19 15:12:51,257 [main] INFO Maven_project Ecommerce - enter password 
+2023-01-19 15:22:06,512 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 15:22:06,956 [main] INFO Maven_project Ecommerce - enter Username
+2023-01-19 15:22:07,329 [main] INFO Maven_project Ecommerce - enter password 
+2023-01-19 15:54:42,863 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 15:54:44,369 [main] INFO Maven_project Ecommerce - enter Username
+2023-01-19 15:54:49,599 [main] INFO Maven_project Ecommerce - enter password 
+2023-01-19 22:38:01,127 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 22:38:01,704 [main] INFO Maven_project Ecommerce - enter Username
+2023-01-19 22:38:02,868 [main] INFO Maven_project Ecommerce - enter password 
+2023-01-19 22:39:55,536 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 22:39:56,021 [main] INFO Maven_project Ecommerce - enter Username
+2023-01-19 22:39:56,742 [main] INFO Maven_project Ecommerce - enter password 
+2023-01-19 22:48:55,598 [main] INFO Maven_project Ecommerce - open url
+2023-01-19 22:48:56,001 [main] INFO Maven_project Ecommerce - enter Username
+2023-01-19 22:48:56,361 [main] INFO Maven_project Ecommerce - enter password 
+2023-01-19 22:49:14,517 [main] INFO Maven_project Ecommerce - Login Successful
+2023-01-22 16:10:04,937 [main] INFO Maven_project Ecommerce - open url
+2023-01-22 16:10:05,274 [main] INFO Maven_project Ecommerce - enter Username
+2023-01-22 16:10:06,929 [main] INFO Maven_project Ecommerce - enter password 
+2023-01-22 16:10:30,169 [main] INFO Maven_project Ecommerce - Login Successful
+2023-01-22 23:58:33,206 [main] INFO Maven_project Ecommerce - open url
+2023-01-22 23:59:48,123 [main] INFO Maven_project Ecommerce - open url
+2023-01-22 23:59:50,032 [main] INFO Maven_project Ecommerce - enter Firstaname
+2023-01-22 23:59:50,213 [main] INFO Maven_project Ecommerce - enter Lastaname
+2023-01-22 23:59:50,335 [main] INFO Maven_project Ecommerce - enter Email
+2023-01-22 23:59:50,496 [main] INFO Maven_project Ecommerce - enter Password
+2023-01-22 23:59:50,621 [main] INFO Maven_project Ecommerce - enter Confirm Password
+2023-01-22 23:59:50,746 [main] INFO Maven_project Ecommerce - Click on Register
+2023-01-23 00:05:01,447 [main] INFO Maven_project Ecommerce - open url
+2023-01-23 00:05:03,134 [main] INFO Maven_project Ecommerce - enter Firstaname
+2023-01-23 00:05:03,263 [main] INFO Maven_project Ecommerce - enter Lastaname
+2023-01-23 00:05:03,402 [main] INFO Maven_project Ecommerce - enter Email
+2023-01-23 00:05:03,559 [main] INFO Maven_project Ecommerce - enter Password
+2023-01-23 00:05:03,703 [main] INFO Maven_project Ecommerce - enter Confirm Password
+2023-01-23 00:05:03,837 [main] INFO Maven_project Ecommerce - Click on Register
+2023-01-23 00:07:32,999 [main] INFO Maven_project Ecommerce - open url
+2023-01-23 00:07:33,978 [main] INFO Maven_project Ecommerce - enter Firstaname
+2023-01-23 00:07:34,110 [main] INFO Maven_project Ecommerce - enter Lastaname
+2023-01-23 00:07:34,254 [main] INFO Maven_project Ecommerce - enter Email
+2023-01-23 00:07:34,420 [main] INFO Maven_project Ecommerce - enter Password
+2023-01-23 00:07:34,552 [main] INFO Maven_project Ecommerce - enter Confirm Password
+2023-01-23 00:07:34,688 [main] INFO Maven_project Ecommerce - Click on Register
+2023-01-23 00:09:05,513 [main] INFO Maven_project Ecommerce - open url
+2023-01-23 00:09:15,799 [main] INFO Maven_project Ecommerce - enter Firstaname
+2023-01-23 00:09:15,946 [main] INFO Maven_project Ecommerce - enter Lastaname
+2023-01-23 00:09:16,092 [main] INFO Maven_project Ecommerce - enter Email
+2023-01-23 00:09:16,254 [main] INFO Maven_project Ecommerce - enter Password
+2023-01-23 00:09:16,396 [main] INFO Maven_project Ecommerce - enter Confirm Password
+2023-01-23 00:09:16,568 [main] INFO Maven_project Ecommerce - Click on Register
+2023-01-23 00:09:18,930 [main] INFO Maven_project Ecommerce - Registration Successful
+2023-01-23 00:29:17,174 [main] INFO Maven_project Ecommerce - open url
+2023-01-23 00:29:19,314 [main] INFO Maven_project Ecommerce - enter Firstaname
+2023-01-23 00:29:19,615 [main] INFO Maven_project Ecommerce - enter Lastaname
+2023-01-23 00:29:19,858 [main] INFO Maven_project Ecommerce - enter Email
+2023-01-23 00:29:20,042 [main] INFO Maven_project Ecommerce - enter Password
+2023-01-23 00:29:20,171 [main] INFO Maven_project Ecommerce - enter Confirm Password
+2023-01-23 00:29:20,298 [main] INFO Maven_project Ecommerce - Click on Register
+2023-01-23 00:30:25,147 [main] INFO Maven_project Ecommerce - open url
+2023-01-23 00:30:27,174 [main] INFO Maven_project Ecommerce - enter Firstaname
+2023-01-23 00:30:27,340 [main] INFO Maven_project Ecommerce - enter Lastaname
+2023-01-23 00:30:27,500 [main] INFO Maven_project Ecommerce - enter Email
+2023-01-23 00:30:27,676 [main] INFO Maven_project Ecommerce - enter Password
+2023-01-23 00:30:27,826 [main] INFO Maven_project Ecommerce - enter Confirm Password
+2023-01-23 00:30:27,975 [main] INFO Maven_project Ecommerce - Click on Register
+2023-01-23 00:30:29,235 [main] INFO Maven_project Ecommerce - Registration Successful
+2023-01-23 00:56:07,805 [main] INFO Maven_project Ecommerce - open url
+2023-01-23 00:56:10,880 [main] INFO Maven_project Ecommerce - enter Email
+2023-01-23 00:56:11,521 [main] INFO Maven_project Ecommerce - enter Password
+2023-01-23 00:56:11,786 [main] INFO Maven_project Ecommerce - Click on Login
+2023-01-23 00:58:27,736 [main] INFO Maven_project Ecommerce - open url
+2023-01-23 00:58:29,571 [main] INFO Maven_project Ecommerce - enter Firstaname
+2023-01-23 00:58:29,867 [main] INFO Maven_project Ecommerce - enter Lastaname
+2023-01-23 00:58:30,084 [main] INFO Maven_project Ecommerce - enter Email
+2023-01-23 00:58:30,244 [main] INFO Maven_project Ecommerce - enter Password
+2023-01-23 00:58:30,372 [main] INFO Maven_project Ecommerce - enter Confirm Password
+2023-01-23 00:58:30,496 [main] INFO Maven_project Ecommerce - Click on Register
+2023-01-23 00:58:31,617 [main] INFO Maven_project Ecommerce - Registration Successful
+2023-01-23 00:59:23,678 [main] INFO Maven_project Ecommerce - open url
+2023-01-23 00:59:25,429 [main] INFO Maven_project Ecommerce - enter Email
+2023-01-23 00:59:25,566 [main] INFO Maven_project Ecommerce - enter Password
+2023-01-23 00:59:25,681 [main] INFO Maven_project Ecommerce - Click on Login
+2023-01-23 01:00:46,313 [main] INFO Maven_project Ecommerce - open url
+2023-01-23 01:00:48,832 [main] INFO Maven_project Ecommerce - enter Email
+2023-01-23 01:00:49,037 [main] INFO Maven_project Ecommerce - enter Password
+2023-01-23 01:00:49,238 [main] INFO Maven_project Ecommerce - Click on Login
+2023-01-23 01:02:07,404 [main] INFO Maven_project Ecommerce - open url
+2023-01-23 01:02:08,444 [main] INFO Maven_project Ecommerce - enter Email
+2023-01-23 01:02:08,576 [main] INFO Maven_project Ecommerce - enter Password
+2023-01-23 01:02:08,694 [main] INFO Maven_project Ecommerce - Click on Login
